@@ -1,0 +1,15 @@
+Welcome to the Interactive Personal Data Collector!
+ 
+Please enter your name: Alice
+Please enter your age: 25
+Please enter your height: 1.67
+Please enter your favourite number: 7
+ 
+Thank you! Here is the information we collected:
+ 
+Name: Alice (type: <class 'str'> Memory Address: 4373134672)
+Age: 25 (type: <class 'int'> Memory Address: 4368900768)
+Height: 1.67 (type: <class 'float'> Memory Address: 4370543248)
+Favourite Number: 7 (type: <class 'int'> Memory Address: 4368900192)
+ 
+Your birth year is approximately: 2001 (based on your age of 25)
